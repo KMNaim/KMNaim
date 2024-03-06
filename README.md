@@ -45,10 +45,7 @@
 [![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-290648?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
 [![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-12192B?style=for-the-badge&logo=tailwind-css)]()
 [![Laravel](https://img.shields.io/badge/laravel-22191A.svg?style=for-the-badge&logo=laravel)](https://laravel.com/)
-[![React](https://img.shields.io/badge/React-1F2023?style=for-the-badge&logo=React)](https://react.dev/)
-[![Node.js](https://img.shields.io/badge/Node.js-130654?style=for-the-badge&logo=Node.js)](https://nodejs.org/en/)
-[![Express](https://img.shields.io/badge/Express-3A485E?style=for-the-badge&logo=Express)](https://expressjs.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-092E20?style=for-the-badge&logo=MongoDB)](https://www.mongodb.com/)
+
 ## Database Development
 
 [![MYSQL](https://img.shields.io/badge/MySQL-E38C00?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
@@ -75,7 +72,6 @@
 ## Operating Systems 
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)](https://www.microsoft.com/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-333333?style=for-the-badge&logo=ubuntu)](https://ubuntu.com/)
 [![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS)](https://www.centos.org/)
 
 
@@ -89,7 +85,6 @@
 ## Other Tools & Technologies
 
 <!-- [![GIT](https://img.shields.io/badge/Git-202124?style=for-the-badge&logo=git)](https://git-scm.com/) -->
-[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery)](https://jquery.com/)
 [![Figma](https://img.shields.io/badge/Figma-262577?style=for-the-badge&logo=Figma)](https://www.figma.com/)
 [![illustrator](https://img.shields.io/badge/illustrator-262577?style=for-the-badge&logo=illustrator)](https://www.adobe.com/in/products/illustrator.html)
 [![MATLAB](https://img.shields.io/badge/MATLAB-2F74A8?style=for-the-badge&logo=wolframmathematica)](https://www.mathworks.com/)
