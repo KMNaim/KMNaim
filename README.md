@@ -1,25 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Preview: KMNaim/README.md</title>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown-dark.min.css">
-<style>
-  body { background:#010409; margin:0; font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif; }
-  .wrap { max-width:1012px; margin:32px auto; border:1px solid #30363d; border-radius:6px; background:#0d1117; }
-  .bar { padding:10px 16px; border-bottom:1px solid #30363d; color:#8b949e; font-size:14px; }
-  .bar b { color:#e6edf3; }
-  .markdown-body { padding:32px; }
-  .err { color:#f85149; padding:24px; }
-</style>
-</head>
-<body>
-<div class="wrap">
-  <div class="bar"><b>KMNaim</b> / README<span>.md</span> &nbsp;·&nbsp; local preview, rendered like GitHub's dark theme</div>
-  <article id="out" class="markdown-body">Loading…</article>
-</div>
-<script src="https://cdn.jsdelivr.net/npm/marked@12/marked.min.js"></script>
-<script id="md" type="text/plain"><div id="top"></div>
+<div id="top"></div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=K.M.%20Naimuddin&fontSize=52&fontColor=e6edf3&fontAlignY=36&desc=Data%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20Deep%20Learning&descAlignY=58&descSize=17&animation=fadeIn" alt="K.M. Naimuddin" />
@@ -108,9 +87,3 @@ So far that has meant exploratory analysis and dashboards (Olympic 2024 results,
 </p>
 
 <p align="right"><a href="#top">back to top ↑</a></p>
-</script>
-<script>
-  document.getElementById('out').innerHTML = marked.parse(document.getElementById('md').textContent, { gfm: true });
-</script>
-</body>
-</html>
